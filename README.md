@@ -88,19 +88,12 @@ Hey there! 👋 I’m *Anurag Teurwade* from *India*
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Anurag-Teurwade&theme=onedark)
 
 
-## 📊 GitHub Summary:
+## <span style="font-size: 18px;">📊 GitHub Summary:</span>
 
-<p><a href="https://quine.sh/profile/Anurag-Teurwade"><img align="" height="auto" width="48%" src="https://stats.quine.sh/Anurag-Teurwade/github?theme=dark"/></a>
-<img align ="" height="auto" width="48%" alt="Anurag-Teurwade's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Anurag-Teurwade&show_icons=true&hide_border=true&theme=radical" />&nbsp;</p>
+<img height="auto" width="60%" alt="Anurag-Teurwade's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Anurag-Teurwade&show_icons=true&hide_border=true&theme=radical" />
 
-<img align ="right" height="auto" width="45%" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anurag-Teurwade&hide_border=true&theme=radical&layout=compact" />
+<img height="auto" width="60%" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anurag-Teurwade&hide_border=true&theme=radical&layout=compact" />
 
-<a href="https://github.com/Anurag-Teurwade"><img alt="Anurag-Teurwade's streak" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Anurag-Teurwade&theme=black-ice&hide_border=true&theme=radical&layout=compact" /> </a></p>
-
-[linkedin]: https://www.linkedin.com/in/anurag-at  
-[Anurag's github stats]: https://github-readme-stats.vercel.app/api?username=Anurag-Teurwade  
-[top langs]: https://github-readme-stats.vercel.app/api/top-langs/?username=Anurag-Teurwade&layout=compact  
-[profile views]: https://komarev.com/ghpvc/?username=Anurag-Teurwade&color=brightgreen&style=flat-square
 
 ---
 
