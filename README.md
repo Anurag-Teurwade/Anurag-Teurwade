@@ -6,15 +6,19 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&weight=600&size=38&duration=7000&pause=1000&color=0074e4&height=100&width=1100&&lines=Hi,+I'm+Anurag+Teurwade+and+Welcome+to+my+GitHub+Profile!..+🙏✌😍;Nice+to+meet+you...👍✌😍" alt="Typing SVG">
 </div>
 
-## About Me :robot:
-I'm **Anurag Teurwade**, an enthusiastic coder from India passionate about **AI/ML**, **Web Development**, and **Blockchain**.  
-<a href="https://github.com/AnuragTeurwade"><img width="26%" height="auto" align="right" src="https://user-images.githubusercontent.com/76244600/130684066-fb0b5e47-6c93-469e-ba45-7cb62833b965.png" /></a>
+## About Me 🤖
+Hey there! 👋 I’m *Anurag Teurwade* from *India* 
 
-- 🌱 Currently diving into **AI/ML** and expanding my expertise in **MERN stack** development.
-- 🔭 Building and refining **full-stack MERN projects** and exploring new technologies.
-- 💬 Ask me about **Web Development**, **AI/ML**, **Blockchain**, or anything tech-related.
-- 👯‍♀️ Seeking opportunities for **collaboration** on exciting **Web Development Projects**.  
-- 📫 Reach me via [LinkedIn](https://www.linkedin.com/in/anurag-teurwade-457376230/).
+<a href="https://github.com/AnuragTeurwade">
+  <img width="26%" height="250px" align="right" src="https://user-images.githubusercontent.com/76244600/130684066-fb0b5e47-6c93-469e-ba45-7cb62833b965.png" />
+</a>
+
+- 🌱 *Currently learning* *DSA* and *MERN Stack*.
+- 🔭 *Building Full Stack MERN Projects* and exploring new technologies.
+- 💬 *Ask me about MERN Stack* (I may talk your ear off about *MongoDB*).
+- 📫 Reach me on [*LinkedIn*](https://www.linkedin.com/in/anurag-teurwade-457376230/) — or just send a carrier pigeon 🕊️.
+- 👯‍♀️ *Looking to collaborate on MERN projects* — I promise I’ll bring more memes than bugs! 😆
+<br><br><br>
 
 ## Fun Zone: 😄
 <p align="center" height="auto">
