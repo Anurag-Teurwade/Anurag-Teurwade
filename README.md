@@ -26,14 +26,15 @@ Hey there! 👋 I’m *Anurag Teurwade* from *India*
    <img height="auto" width="35%" src="https://media.giphy.com/media/IPhL5ZvzvcGVWml71R/giphy.gif"/>
 </p>
 
+
 ## Connect with Me:
 
 <div>
-   <a href="https://twitter.com/AnuragTeurwade" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_6-twitter-512.png" height="80px" width="80" alt="Twitter" align="center"></a>
+   <a href="https://twitter.com/AnuragMax9612" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_6-twitter-512.png" height="80px" width="80" alt="Twitter" align="center"></a>
 &ensp;
-<a href="https://www.linkedin.com/in/anurag-teurwade-457376230/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="80px" width="80px" alt="LinkedIn" align="center"></a>
+<a href="https://www.linkedin.com/in/anurag-at" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="80px" width="80px" alt="LinkedIn" align="center"></a>
 
-<a href="https://www.instagram.com/anurag__teurwade/" target="_blank">
+<a href="https://www.instagram.com/anurag__9612/" target="_blank">
     <img align="left" src="https://cdn0.iconfinder.com/data/icons/sociale-media/128/Instagram.png" height="80px" width="80px" align="center" />
   </a>
   
