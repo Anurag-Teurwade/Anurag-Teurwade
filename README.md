@@ -102,13 +102,6 @@ Hey there! 👋 I’m *Anurag Teurwade* from *India*
 [top langs]: https://github-readme-stats.vercel.app/api/top-langs/?username=Anurag-Teurwade&layout=compact  
 [profile views]: https://komarev.com/ghpvc/?username=Anurag-Teurwade&color=brightgreen&style=flat-square
 
-
-<br>
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&height=70&weight=500&size=30&duration=5000&pause=1000&color=ffd700&width=700&lines=Design+❤️+By+Anurag+Teurwade..+🙏✌😍;I+hope+You+will+follow+me+...👍✌😍" alt="Typing SVG">
-</div>
-
 ---
 
 > **Note**: Always happy to collaborate, share knowledge, and learn from the open-source community!
