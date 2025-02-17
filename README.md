@@ -1,5 +1,6 @@
-![Profile Views](https://komarev.com/ghpvc/?username=AnuragTeurwade&color=brightgreen&style=flat-square)
-<a><img src="https://img.shields.io/github/followers/AnuragTeurwade?label=Followers&style=social" alt="GitHub Badge"></a>
+![Profile Views](https://komarev.com/ghpvc/?username=Anurag-Teurwade&color=brightgreen&style=flat-square)
+<a><img src="https://img.shields.io/github/followers/Anurag-Teurwade?label=Followers&style=social" alt="GitHub Badge"></a>
+
    
 <div style="display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100vh;">
   <img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&weight=600&size=38&duration=7000&pause=1000&color=0074e4&height=100&width=1100&&lines=Hi,+I'm+Anurag+Teurwade+and+Welcome+to+my+GitHub+Profile!..+🙏✌😍;Nice+to+meet+you...👍✌😍" alt="Typing SVG">
