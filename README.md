@@ -1,4 +1,5 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Anurag-Teurwade&color=brightgreen&style=flat-square)
+
 <a><img src="https://img.shields.io/github/followers/Anurag-Teurwade?label=Followers&style=social" alt="GitHub Badge"></a>
 
    
