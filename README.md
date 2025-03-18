@@ -18,7 +18,7 @@ Hey there! 👋 I’m *Anurag Teurwade* from *India*
 - 🔭 *Building Full Stack MERN Projects* and exploring new technologies.
 - 💬 *Ask me about MERN Stack* (I may talk your ear off about *MongoDB*).
 - 📫 Reach me on [*LinkedIn*](https://www.linkedin.com/in/anurag-teurwade-457376230/) — or just send a carrier pigeon 🕊️.
-- 👯‍♀️ *Looking to collaborate on MERN projects* — I promise I’ll bring more memes than bugs! 😆
+- 👯‍♀️ *Looking to collaborate on MERN projects* — I promise I’ll bring more memes than bugs!😆
 <br><br><br>
 
 ## Fun Zone: 😄
