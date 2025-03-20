@@ -96,7 +96,6 @@ Hey there! 👋 I’m *Anurag Teurwade* from *India*
 <img height="auto" width="60%" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anurag-Teurwade&hide_border=true&theme=radical&layout=compact" />
 
 
-
 ---
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&height=70&weight=500&size=30&duration=5000&pause=1000&color=ffd700&width=700&lines=Design+❤️+By+Anurag+Teurwade..+🙏✌😍;I+hope+You+will+follow+me+...👍✌😍;Or+at+least+pretend+you+did+😉😂" alt="Typing SVG">
